@@ -1,0 +1,52 @@
+{{ define "main" }}
+<article class="single">
+    <h1 class="title">{{ .Title }}</h1>
+    {{ if eq .Section "posts" }}
+        <div class="tip">
+            <time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "02/01/2006" }}</time>
+            <span class="split">·</span>
+            <span>
+                {{ if eq .WordCount 1 }}
+                    1 word
+                {{ else }}
+                    {{ .WordCount }} words
+                {{ end }}
+            </span>
+            <span class="split">·</span>
+            <span>
+                {{ if eq .ReadingTime 1 }}
+                    1 minute to read
+                {{ else }}
+                    {{ .ReadingTime }} minutes to read
+                {{ end }}
+            </span>
+        </div>
+        <div class="taxonomies">
+            {{ with .Params.categories }}
+            <div>
+                Categories:
+                {{ range . }}
+                    <a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+                {{ end }}
+            </div>
+            {{ end }}
+            {{ with .Params.tags }}
+                <div>
+                    Tags:
+                    {{ range . }}
+                        <a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+                    {{ end }}
+                </div>
+            {{ end }}
+        </div>
+        <hr />
+    {{ end }}
+    <div class="content">
+        {{ .Content }}
+    </div>
+    {{ with and .Site.Params.remark42 .Params.show_comments }}
+        <hr />
+        {{ partial "comment.html" . }}
+    {{ end }}
+</article>
+{{ end }}

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: *
+
+User-agent: ChatGPT-User
+User-agent: CCBot
+User-agent: PetalBot
+Disallow: /
+
+Sitemap: {{ .Site.BaseURL }}sitemap.xml

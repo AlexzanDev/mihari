@@ -1,0 +1,47 @@
+baseURL = 'https://alexzan.me/'
+languageCode = 'en-us'
+title = 'Alessandro Zangrandi'
+theme = 'hugo-theme-flat'
+copyright = '2023 - Alessandro Zangrandi'
+enableRobotsTXT = true
+
+[author]
+  name = 'Alessandro Zangrandi'
+  email = 'alexzan@alexzan.me'
+
+[permalinks]
+  [permalinks.page]
+    posts = '/:year/:month/:day/:slug/'
+  [permalinks.section]
+    posts = '/posts/'
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      typographer = false
+
+[[menus.main]]
+name = "Posts"
+url = "/posts/"
+weight = 30
+
+[[menus.main]]
+name = "Projects"
+url = "/projects/"
+weight = 50
+
+[[menus.main]]
+pageref = "about"
+name = "About"
+weight = 80
+
+[[params.footer_rows]]
+[[params.footer_rows.items]]
+name = "Hugo"
+url = "https://gohugo.io"
+pre = "Powered by <a href=\"https://gohugo.io\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a>"
+[[params.footer_rows.items]]
+name = "theme flat"
+url = "https://cgit.leafee98.com/hugo-theme-flat.git"
+pre = "Theme: edited version of <a href=\"https://git.leafee98.com/leafee98/hugo-theme-flat.git\" rel=\"nofollow noopener\" target=\"_blank\">hugo-theme-flat</a>"

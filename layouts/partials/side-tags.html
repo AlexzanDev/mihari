@@ -1,0 +1,12 @@
+<div class="side-tags">
+    <h2>Tags</h2>
+    <hr />
+
+    <ul>
+        {{ range .Site.Taxonomies.tags.Alphabetical }}
+            <li>
+                <a href="{{ "tags/" | relURL }}{{ .Page.Title | urlize }}/">{{ .Page.Title }} ({{ .Count }})</a>
+            </li>
+        {{ end }}
+    </ul>
+</div>

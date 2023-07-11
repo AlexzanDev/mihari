@@ -1,0 +1,12 @@
+<div class="side-categories">
+    <h2>Categories</h2>
+    <hr />
+
+    <ul>
+        {{ range .Site.Taxonomies.categories }}
+            <li>
+                <a href="{{ "categories/" | relURL }}{{ .Page.Title | urlize }}/">{{ .Page.Title }} ({{ .Count }})</a>
+            </li>
+        {{ end }}
+    </ul>
+</div>

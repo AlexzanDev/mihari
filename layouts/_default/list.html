@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div>
+    {{ if trim .Content " \n" }}
+        <div class="content archive-hint">{{ .Content }}</div>
+    {{ end }}
+    <section id="archive">
+        <h1 class="title">{{ .Page.Title }}</h1>
+        {{ range .Data.Pages.GroupByDate "2006" }}
+            <div class="group">
+                <h3 class="key">
+                    {{ .Key }}
+                </h3>
+                {{ range .Pages }}
+                    <div class="value">
+                        <time class="date" datetime="{{ .PublishDate }}">{{ .PublishDate.Format "02/01/2006" }}</time>
+                        <div class="title">
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        </div>
+                    </div>
+                {{ end }}
+            </div>
+        {{ end }}
+    </section>
+</div>
+{{ end }}

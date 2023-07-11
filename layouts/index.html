@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<div class="max-wrapper">
+    <h1 class="title" style="margin-top: 0;">Alessandro Zangrandi's Blog</h1>
+    <div id="list-page">
+        {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+        {{ $paginator := .Paginate $pages }}
+        {{ range $paginator.Pages }}
+            <article class="list-item">
+                <h2 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <div class="tips">
+                    <div class="date">
+                        <time datetime="{{ .PublishDate }}">{{ .PublishDate.Format "02/01/2006" }}</time>
+                    </div>
+                    {{ with .Params.Categories }}
+                        <div class="categories">
+                            <span>Categories:</span>
+                            {{ range first 2 . }}
+                                <a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+                            {{ end }}
+                        </div>
+                    {{ end }}
+                    {{ with .Params.Tags }}
+                        <div class="tags">
+                            <span>Tags:</span>
+                            {{ range first 5 . }}
+                                <a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+                            {{ end }}
+                        </div>
+                    {{ end }}
+                </div>
+                <div class="summary">{{ .Summary }}</div>
+            </article>
+        {{ end }}
+    </div>
+    {{ partial "pagination.html" . }}
+</div>
+{{ end }}
