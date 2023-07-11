@@ -1,0 +1,9 @@
+User-agent: *
+Allow: *
+
+User-agent: ChatGPT-User
+User-agent: CCBot
+User-agent: PetalBot
+Disallow: /
+
+Sitemap: https://alexzan.me/sitemap.xml

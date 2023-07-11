@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Alessandro Zangrandi</title>
+    <link>https://alexzan.me/categories/</link>
+    <description>Recent content in Categories on Alessandro Zangrandi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>alexzan@alexzan.me (Alessandro Zangrandi)</managingEditor>
+    <webMaster>alexzan@alexzan.me (Alessandro Zangrandi)</webMaster>
+    <copyright>2023 - Alessandro Zangrandi</copyright>
+    <lastBuildDate>Tue, 11 Jul 2023 23:18:32 +0200</lastBuildDate><atom:link href="https://alexzan.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal</title>
+      <link>https://alexzan.me/categories/personal/</link>
+      <pubDate>Tue, 11 Jul 2023 23:18:32 +0200</pubDate>
+      <author>alexzan@alexzan.me (Alessandro Zangrandi)</author>
+      <guid>https://alexzan.me/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
