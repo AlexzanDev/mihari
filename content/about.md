@@ -30,6 +30,7 @@ I'm pretty much everywhere on the Internet, but the best way to reach me is via 
 * Mastodon: [**@alexzan**](https://mastodon.online/@alexzan)
 * Misskey: [**@alexzan**](https://sas.monster/@alexzan)
 * Reddit: [**@Alexzan_**](https://www.reddit.com/user/Alexzan_)
+* Bluesky: [**@alexzan.bsky.social**](https://bsky.app/profile/alexzan.bsky.social)
 * CoHost: [**@alexzan**](https://cohost.org/alexzan) 
 * Instagram: [**@alexzanpf**](https://instagram.com/alexzanpf)
     * I'm also on Threads, but with another account and I'm waiting for the ActivityPub support.

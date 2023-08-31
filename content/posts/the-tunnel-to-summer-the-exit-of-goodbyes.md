@@ -1,0 +1,32 @@
+---
+title: "Review: The Tunnel to Summer, the Exit of Goodbyes (Movie)"
+date: 2023-08-31T21:31:23+02:00
+draft: false
+categories: ["Entertainment"]
+tags: ["Anime", "Reviews", "Movies"]
+summary: "A review of the anime movie The Tunnel to Summer, the Exit of Goodbyes."
+---
+
+One of last year's anime movies that most intrigued me was **Natsu e no Tunnel, Sayonara no Deguchi**, also known in English as **The Tunnel to Summer, the Exit of Goodbyes**. Based on the light novel of the same name written by Mei Hachimoku and illustrated by Kukka, **The Tunnel to Summer, the Exit of Goodbyes** revolves around the legend of the Urashima Tunnel: it is said that by entering this tunnel, one can obtain what they most desire. However, this comes at a cost: time.
+
+This is the premise of Hachimoku's story and the anime adaptation directed by Tomohisa Taguchi, which focuses on high school students Kaoru Touno and Anzu Hanashiro. Touno is a serious boy, most likely not because of his character, but due to some events that have changed his life for the worse and that he still struggles with, such as an alcoholic father who abuses his son. Hanashiro, on the other hand, is a straightforward and determined girl that tries to achieve her goals in every situation. The two meet at first by chance at a station in a seaside town during a downpour: Touno is on her way home from school, while Hanashiro is completely soaked, without an umbrella, carrying something apparently very important to her. The two students have a little conversation, and Touno decides to lend Hanashiro his umbrella as he was concerned about her.
+
+{{<figure src="/images/posts/2023/08/the-tunnel-to-summer-the-exit-of-goodbyes-scr01.jpg" alt="A screenshot from The Tunnel to Summer, the Exit of Goodbyes.">}}
+
+One afternoon Touno, after running away from home and slipping into a forest to avoid being hit by a train on the tracks, discovers the Urashima Tunnel almost by accident and decides to walk in. An incredible scene unfolds before him that leaves him astonished. Intrigued by the length of the tunnel, Kouno begins to walk and walk, until he finds alive his parrot that died a few years earlier. Impressed by the finding, Kouno notices something strange after coming back to home. Although he had spent only a few minutes in the tunnel, time had moved much further outside: a week had passed. Kouno realizes that the story of the Urashima Tunnel is anything but a legend, and that in exchange for time he can try to take back what he needs to fix his life.
+
+One visit to the tunnel is not enough for Kouno, who becomes increasingly curious about what lies within. The next day he returns to the tunnel, but with someone following him without his knowledge: Hanashiro. Despite coming from Tokyo the girl is aware of the legend, and she asks Kouno what he knows about the tunnel. At that point Hanashiro decides to try to follow Kouno, and the two strike a pact by starting an experiment. Hanashiro also has something she wants from the tunnel, and, as if they have nothing to lose, they both agree to spend their time inside the tunnel as long as they can find what they are looking for.
+
+{{< youtube 29KybHTiCqc >}}
+
+While the first part of the movie is mainly focused on the birth of this relationship between Kouno and Hanashiro, the second part should, technically, have been focused more on their experiment and what the tunnel hides. Well, it doesn't, and that is the main problem I have with this movie. Taguchi, in fact, decides to continue to emphasize the friendship of the two teenagers, using the tunnel more as a gimmick to slowly grow and transform their relationship, instead of treating it in a way that answers the many questions that the audience may have. We learn what Kouno and Hanashiro's desires are, and the unconvering of each other's secrets helps the two grow closer and closer. While it's good that there's a focus on character development, on the other hand a movie whose plot revolves around the mysterious tunnel shouldn't take all the attention away from it.
+
+The ending, as was my case, might leave a bitter taste in the mouth, not because of the ending per se, but because it's unclear how several events take place and how they are going to continue. Perhaps, if the film had lasted longer than 83 minutes there might have been some explanation, and in my opinion the short running also had a negative impact on the enjoyability of the work. It's a pity, as I was really attracted by the plot, and I would have liked to have some answers that might be in the light novel instead. To clarify, I appreciated the two main characters, their personalities, and the way they collaborated to carry out the experiment Hanashiro envisioned. However, I finished the movie with some unanswered questions about both protagonists (I will not elaborate further to avoid spoilers).
+
+{{<figure src="/images/posts/2023/08/the-tunnel-to-summer-the-exit-of-goodbyes-scr02.jpg" alt="A screenshot from The Tunnel to Summer, the Exit of Goodbyes.">}}
+
+Regarding the other aspects of the movie, I must say that I was pleasantly surprised by many things. The animations are very well done: character designer and art director Tomomi Yabuki has directed the movie in a way that can really get your attention while also making you feel various emotions, from sadness to happiness. Let's be clear, while the story is not that happy, there are times when you can enjoy with joy the moments that Kouno and Hanashiro spend together, such as a short visit to the local aquarium (Was it a romantic date or not? Who knows) or their meetings where they try to figure out how the tunnel works. Also noteworthy is the soundtrack composed by Harumi Fuuki and Satoki Iida, which nicely accompanies all the scenes in the movie. The Japanese artist eill also made some songs for the movie, collected in the EP [Pre-Romance / Finale.](https://lnk.to/2L46WNNx).
+
+In conclusion, **The Tunnel to Summer, the Exit of Goodbyes** is an enjoyable film with a screenplay that goes down its own path without adapting the source material properly and not giving answers to questions one would like to investigate more. Had it been longer with more focus on the tunnel and its mysteries, rather than just on Kouno and Hanashiro, I would have been definitely satisfied. A missed opportunity, unfortunately.
+
+## Score: ⭐⭐⭐/5
