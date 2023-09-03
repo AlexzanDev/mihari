@@ -1,9 +1,14 @@
 User-agent: *
 Allow: *
 
+# This rule blocks AI related and useless bots.
 User-agent: ChatGPT-User
+Disallow: /
 User-agent: CCBot
+Disallow: /
 User-agent: PetalBot
+Disallow: /
+User-agent: GPTBot
 Disallow: /
 
 Sitemap: https://alexzan.me/sitemap.xml
