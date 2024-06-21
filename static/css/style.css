@@ -123,6 +123,7 @@
   --font-size-0: 0.8125rem;
   --font-size-1: 0.875rem;
   --font-size-2: 1.000rem;
+  --font-size-text: 1.0625em;
   --font-size-3: 1.125rem;
   --font-size-4: 1.250rem;
   --font-size-5: 1.500rem;
@@ -465,7 +466,7 @@ body {
 /***** set up content style *****/
 
 .content {
-    line-height: 1.5;
+  line-height: 1.5;
 }
 
 .content code {
@@ -562,12 +563,15 @@ body {
 }
 .content p,
 .content pre {
+  font-size: var(--font-size-text);
+  line-height: 1.7em;
   word-break: normal;
   overflow-wrap: anywhere;
 }
 .content img {
   max-width: 100%;
   display: block;
+  margin: 0 auto;
 }
 .content figcaption {
   text-align: center;
@@ -591,6 +595,11 @@ body {
   text-align: center;
 }
 
+.content ul li {
+  font-size: var(--font-size-text);
+  line-height: 1.7em;
+}
+
 .highlight pre {
   padding: 7px;
   overflow-x: auto;
@@ -601,6 +610,10 @@ body {
   max-width: 100%;
   overflow-x: auto;
   margin: 1em 0;
+}
+
+.twitter-tweet {
+  margin: 0 auto;
 }
 
 /**************************/

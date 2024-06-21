@@ -2,8 +2,7 @@
 title: "Review: The Tunnel to Summer, the Exit of Goodbyes (Movie)"
 date: 2023-08-31T21:31:23+02:00
 draft: false
-categories: ["Entertainment"]
-tags: ["Anime", "Reviews", "Movies"]
+categories: ["Reviews", "Anime"]
 summary: "A review of the anime movie The Tunnel to Summer, the Exit of Goodbyes."
 ---
 

@@ -31,7 +31,7 @@ Although it might seem that way, I'm not a fan of coding. I like writing more, s
 * [**GamingTalker**](https://www.gamingtalker.it/) - As already said, it's a blog about videogames. I write reviews, guides and news everyday.
 * [**Manga's Corner**](https://t.me/mangascorner) - A Telegram channel about anime and manga.
 * [**Otaku's Journal**](https://www.otakusjournal.it/author/alexzan/) - The first anime and manga related website I wrote for.
-* [**linux/hub**](https://linuxhub.it/) - For a while I have been editor-in-chief of linux/hub, a website about Linux guides that still today I like a lot. [Here](https://github.com/search?q=repo%3Alinuxhubit%2Flinuxhub.it+Alessandro+Zangrandi&type=code) you can find all the articles I wrote: I have to say that I learned lots of things, considering that I was in my first years of high school. I can't thank enough [Mirko Brombin](https://mirko.pm/), the one that gave this opportunity (and that created two things that Linux users may know: [VanillaOS](https://vanillaos.org/) and [Bottles](https://usebottles.com/)).
+* [**linux/hub**](https://linuxhub.it/) - For a while I have been editor-in-chief of linux/hub, a website about Linux guides that still today I like a lot. [Here](https://github.com/search?q=repo%3Alinuxhubit%2Flinuxhub.it+Alessandro+Zangrandi&type=code) you can find all the articles I wrote: I have to say that I learned lots of things, considering that I was in my first years of high school. I can't thank enough [Mirko Brombin](https://mirko.pm/), the one that gave me this opportunity (and that created two things that Linux users may know: [VanillaOS](https://vanillaos.org/) and [Bottles](https://usebottles.com/)).
 
 ## Notes
 
