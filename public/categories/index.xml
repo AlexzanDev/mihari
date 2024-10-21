@@ -8,8 +8,26 @@
     <language>en-us</language>
     <managingEditor>alexzan@alexzan.me (Alessandro Zangrandi)</managingEditor>
     <webMaster>alexzan@alexzan.me (Alessandro Zangrandi)</webMaster>
-    <copyright>2023 - Alessandro Zangrandi</copyright>
-    <lastBuildDate>Thu, 31 Aug 2023 21:31:23 +0200</lastBuildDate><atom:link href="https://alexzan.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2024 - Alessandro Zangrandi</copyright>
+    <lastBuildDate>Mon, 21 Oct 2024 00:13:11 +0200</lastBuildDate><atom:link href="https://alexzan.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Games</title>
+      <link>https://alexzan.me/categories/games/</link>
+      <pubDate>Mon, 21 Oct 2024 00:13:11 +0200</pubDate>
+      <author>alexzan@alexzan.me (Alessandro Zangrandi)</author>
+      <guid>https://alexzan.me/categories/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hands-on</title>
+      <link>https://alexzan.me/categories/hands-on/</link>
+      <pubDate>Mon, 21 Oct 2024 00:13:11 +0200</pubDate>
+      <author>alexzan@alexzan.me (Alessandro Zangrandi)</author>
+      <guid>https://alexzan.me/categories/hands-on/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Anime</title>
       <link>https://alexzan.me/categories/anime/</link>

@@ -2,7 +2,7 @@ baseURL = 'https://alexzan.me/'
 languageCode = 'en-us'
 title = 'Alessandro Zangrandi'
 theme = 'hugo-theme-flat'
-copyright = '2023 - Alessandro Zangrandi'
+copyright = '2024 - Alessandro Zangrandi'
 enableRobotsTXT = true
 
 [author]
